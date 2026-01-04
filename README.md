@@ -5,7 +5,7 @@
 
 
 **About me**
-
+ New in Field Still Learning
 - 👀 I’m interested in programming and logic building.
 - 👀 I’m interested in fitness as well for better mind and healthy body.
 - 🌱 I’m currently working as a GCP Data Engineer and exploring the Data engineer world
