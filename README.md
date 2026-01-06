@@ -7,7 +7,7 @@
 **About me**
  New in Field Still Learning
 - 👀 I’m interested in programming and logic building.
-- 👀 I’m interested in fitness as well for better mind and healthy body.
+- 👀 I’m interested in fitness as well for better mind and healthy body.ec
 - 🌱 I’m currently student in SRIST in CSE
 - 💞 I’m looking to collaborate on programming problem discussion 
 - 📫 you can reach me at:e-mail: ayushidubey504@gmail.com
