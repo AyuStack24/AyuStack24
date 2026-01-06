@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :) 𝐟𝐞𝐥𝐥𝐨𝐰 DATA ENGINEER  :) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Ayushi Dubey from India :)</h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :) 𝐟𝐞𝐥𝐥𝐨𝐰 ENGINEER  :) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Ayushi Dubey from India :)</h2>
 </div>
 
 
@@ -8,7 +8,7 @@
  New in Field Still Learning
 - 👀 I’m interested in programming and logic building.
 - 👀 I’m interested in fitness as well for better mind and healthy body.
-- 🌱 I’m currently working as a GCP Data Engineer and exploring the Data engineer world
+- 🌱 I’m software engineering student passionate about learning programming and building projects
 - 💞 I’m looking to collaborate on programming problem discussion 
 - 📫 you can reach me at:e-mail: ayushidubey504@gmail.com
 
